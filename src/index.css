@@ -6,8 +6,8 @@
 body {
   background: linear-gradient(
     to bottom left,
-    rgb(195, 255, 0),
-    rgb(57, 255, 110)
+    rgb(106, 204, 250),
+    rgb(155, 189, 228)
   );
   background-attachment: fixed;
 }
